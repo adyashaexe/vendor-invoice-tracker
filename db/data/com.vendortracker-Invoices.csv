@@ -1,0 +1,4 @@
+ID,purchaseOrder_ID,invoiceNumber,amount,status,submittedAt
+3001,2001,INV-2001,150000,Submitted,2026-01-12
+3002,2002,INV-2002,75000,Verified,2026-02-17
+3003,2003,INV-2003,200000,Verified,2026-03-05

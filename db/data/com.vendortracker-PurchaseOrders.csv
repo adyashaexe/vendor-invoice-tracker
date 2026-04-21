@@ -1,0 +1,4 @@
+ID,vendor_ID,itemDescription,amount,status,createdAt
+2001,1001,Laptop Procurement,150000,Pending,2026-01-10
+2002,1002,Software Licenses,75000,Approved,2026-02-15
+2003,1003,SAP BTP Services,200000,Paid,2026-03-01
